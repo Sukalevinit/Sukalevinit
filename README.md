@@ -12,7 +12,7 @@ Email Me 👉 ✉️ **thesukales@gmail.com** For Collaboration/Project or Anyth
 - ⚡ **Fun fact:** I once started a project just for fun… and accidentally learned an entire new skill set in the process. Now I’m the go-to person when someone says, “Wait, how did you do that?”
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@sukalevinit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@vinit-sukale) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SukaleVinit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thesukales@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sukalevinit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinit-sukale) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SukaleVinit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thesukales@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
